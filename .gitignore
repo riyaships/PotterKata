@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PotterKata.Interfaces/bin/Debug/netstandard2.0
+/.vs/PotterKata
+/PotterKata.Interfaces/bin/Debug/netstandard2.1
+/PotterKata.Interfaces/obj
+/PotterKata.Models/bin/Debug
+/PotterKata.Models/obj
+/PotterKata.Services/bin/Debug
+/PotterKata.Services/obj
+/PotterKata.Tests/bin/Debug/net6.0
+/PotterKata.Tests/obj

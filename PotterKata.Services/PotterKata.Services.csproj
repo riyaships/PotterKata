@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PotterKata.Interfaces\PotterKata.Interfaces.csproj" />
+    <ProjectReference Include="..\PotterKata.Models\PotterKata.Models.csproj" />
+  </ItemGroup>
+
+</Project>
