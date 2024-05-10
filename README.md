@@ -12,8 +12,8 @@ Potter mania is sweeping the country and parents of teenagers everywhere are que
 
 ## Tech Stack
 
-- .NET Core 6.0
-- .NET Standard 2.1
+- .NET Core 6.0 - Unit Test Project
+- .NET Standard 2.1 - All Class library projects
 - C# - Programming Language used for the task
 - xUNIT - Unit Testing Framework
 - MOQ - Mocking Framework
@@ -21,6 +21,7 @@ Potter mania is sweeping the country and parents of teenagers everywhere are que
 
 ## Features
 
-- Calculations to support discount calculation 
-- Scalable data models for the enhancements and necessary wrappers
-- 
+- Calculations to support discounts for single copy of the full series
+- Calculations to support discounts for bulk purchase of various books in the series
+
+
